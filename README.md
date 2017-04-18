@@ -19,3 +19,5 @@ http://localhost:3000/
 This Project under [WTFPL (Do What The Fuck You Want To Public License)](https://github.com/nohshima/angular2-sample/blob/master/LICENSE.txt)
 
 create merge
+
+update merge
