@@ -1,20 +1,23 @@
-# Angular2 ƒTƒ“ƒvƒ‹
+# Angular2 ã‚µãƒ³ãƒ—ãƒ«
 
 ##. Node.js Install
  
-https://nodejs.org/en/download/current/ ‚©‚ç“KØ‚ÈƒCƒ“ƒXƒg[ƒ‰[‚ğƒ_ƒEƒ“ƒ[ƒh‚µ‚Ä“K“–‚É“WŠJAPath ‚ğ’Ê‚µ‚Ä‚¨‚­B
+https://nodejs.org/en/download/current/ ã‹ã‚‰é©åˆ‡ãªã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ©ãƒ¼ã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ã¦é©å½“ã«å±•é–‹ã€Path ã‚’é€šã—ã¦ãŠãã€‚
 
-##. Às‚·‚é
+##. å®Ÿè¡Œã™ã‚‹
 
 ```
 $ npm install
 $ npm start
 ```
-##. index ‚ğŠJ‚­
+##. index ã‚’é–‹ã
 
 http://localhost:3000/
 
 ##. License
 
 This Project under [WTFPL (Do What The Fuck You Want To Public License)](https://github.com/nohshima/angular2-sample/blob/master/LICENSE.txt)
- 
+
+create merge
+
+update merge
